@@ -1,0 +1,1234 @@
+{
+  "a_comp_cor_00": {
+    "CumulativeVarianceExplained": 0.1127125163,
+    "Mask": "combined",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 109.4696064226,
+    "VarianceExplained": 0.1127125163
+  },
+  "a_comp_cor_01": {
+    "CumulativeVarianceExplained": 0.1994476704,
+    "Mask": "combined",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 96.0295870501,
+    "VarianceExplained": 0.0867351541
+  },
+  "a_comp_cor_02": {
+    "CumulativeVarianceExplained": 0.2788341813,
+    "Mask": "combined",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 91.871507222,
+    "VarianceExplained": 0.0793865109
+  },
+  "a_comp_cor_03": {
+    "CumulativeVarianceExplained": 0.3286657601,
+    "Mask": "combined",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 72.7880034831,
+    "VarianceExplained": 0.0498315787
+  },
+  "a_comp_cor_04": {
+    "CumulativeVarianceExplained": 0.3672172715,
+    "Mask": "combined",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 64.0218454861,
+    "VarianceExplained": 0.0385515115
+  },
+  "a_comp_cor_05": {
+    "CumulativeVarianceExplained": 0.3973278332,
+    "Mask": "combined",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 56.5805170692,
+    "VarianceExplained": 0.0301105616
+  },
+  "a_comp_cor_06": {
+    "CumulativeVarianceExplained": 0.4235953335,
+    "Mask": "combined",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 52.8465763569,
+    "VarianceExplained": 0.0262675003
+  },
+  "a_comp_cor_07": {
+    "CumulativeVarianceExplained": 0.4465226539,
+    "Mask": "combined",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 49.3723881524,
+    "VarianceExplained": 0.0229273205
+  },
+  "a_comp_cor_08": {
+    "CumulativeVarianceExplained": 0.4674093648,
+    "Mask": "combined",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 47.1240395307,
+    "VarianceExplained": 0.0208867109
+  },
+  "a_comp_cor_09": {
+    "CumulativeVarianceExplained": 0.485290936,
+    "Mask": "combined",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 43.6023926438,
+    "VarianceExplained": 0.0178815711
+  },
+  "a_comp_cor_10": {
+    "CumulativeVarianceExplained": 0.5023104134,
+    "Mask": "combined",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 42.5383455912,
+    "VarianceExplained": 0.0170194775
+  },
+  "c_comp_cor_00": {
+    "CumulativeVarianceExplained": 0.1605555636,
+    "Mask": "CSF",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 54.1159262996,
+    "VarianceExplained": 0.1605555636
+  },
+  "c_comp_cor_01": {
+    "CumulativeVarianceExplained": 0.2972268666,
+    "Mask": "CSF",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 49.9287949724,
+    "VarianceExplained": 0.136671303
+  },
+  "c_comp_cor_02": {
+    "CumulativeVarianceExplained": 0.4068378813,
+    "Mask": "CSF",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 44.7135875145,
+    "VarianceExplained": 0.1096110147
+  },
+  "c_comp_cor_03": {
+    "CumulativeVarianceExplained": 0.4720859796,
+    "Mask": "CSF",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 34.4981928961,
+    "VarianceExplained": 0.0652480983
+  },
+  "c_comp_cor_04": {
+    "CumulativeVarianceExplained": 0.5223204636,
+    "Mask": "CSF",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 30.2700675147,
+    "VarianceExplained": 0.050234484
+  },
+  "dropped_0": {
+    "CumulativeVarianceExplained": 0.711871999,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 88.7516753785,
+    "VarianceExplained": 0.0071472669
+  },
+  "dropped_1": {
+    "CumulativeVarianceExplained": 0.7187360008,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 86.9751635755,
+    "VarianceExplained": 0.0068640018
+  },
+  "dropped_10": {
+    "CumulativeVarianceExplained": 0.7668373287,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 72.7879400108,
+    "VarianceExplained": 0.0048073499
+  },
+  "dropped_11": {
+    "CumulativeVarianceExplained": 0.7714620996,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 71.3923493076,
+    "VarianceExplained": 0.0046247709
+  },
+  "dropped_12": {
+    "CumulativeVarianceExplained": 0.7760713143,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 71.2721776445,
+    "VarianceExplained": 0.0046092147
+  },
+  "dropped_13": {
+    "CumulativeVarianceExplained": 0.7805716406,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 70.4252773921,
+    "VarianceExplained": 0.0045003264
+  },
+  "dropped_14": {
+    "CumulativeVarianceExplained": 0.7849740025,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 69.6545397447,
+    "VarianceExplained": 0.0044023618
+  },
+  "dropped_15": {
+    "CumulativeVarianceExplained": 0.7893706393,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 69.6092347529,
+    "VarianceExplained": 0.0043966369
+  },
+  "dropped_16": {
+    "CumulativeVarianceExplained": 0.7936590982,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 68.7475436652,
+    "VarianceExplained": 0.0042884589
+  },
+  "dropped_17": {
+    "CumulativeVarianceExplained": 0.7979036053,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 68.3943446045,
+    "VarianceExplained": 0.0042445071
+  },
+  "dropped_18": {
+    "CumulativeVarianceExplained": 0.8021191298,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 68.1604378273,
+    "VarianceExplained": 0.0042155245
+  },
+  "dropped_19": {
+    "CumulativeVarianceExplained": 0.8061970057,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 67.0383874342,
+    "VarianceExplained": 0.0040778758
+  },
+  "dropped_2": {
+    "CumulativeVarianceExplained": 0.7247016329,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 81.0839310144,
+    "VarianceExplained": 0.0059656321
+  },
+  "dropped_20": {
+    "CumulativeVarianceExplained": 0.810247986,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 66.8169468834,
+    "VarianceExplained": 0.0040509803
+  },
+  "dropped_21": {
+    "CumulativeVarianceExplained": 0.8142134824,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 66.1082011788,
+    "VarianceExplained": 0.0039654964
+  },
+  "dropped_22": {
+    "CumulativeVarianceExplained": 0.8181358254,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 65.7475156239,
+    "VarianceExplained": 0.003922343
+  },
+  "dropped_23": {
+    "CumulativeVarianceExplained": 0.8219781994,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 65.0738310292,
+    "VarianceExplained": 0.003842374
+  },
+  "dropped_24": {
+    "CumulativeVarianceExplained": 0.825755743,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 64.5225180623,
+    "VarianceExplained": 0.0037775437
+  },
+  "dropped_25": {
+    "CumulativeVarianceExplained": 0.8294946164,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 64.1914131668,
+    "VarianceExplained": 0.0037388733
+  },
+  "dropped_26": {
+    "CumulativeVarianceExplained": 0.8331541309,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 63.5065173519,
+    "VarianceExplained": 0.0036595145
+  },
+  "dropped_27": {
+    "CumulativeVarianceExplained": 0.8367603501,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 63.0423828406,
+    "VarianceExplained": 0.0036062192
+  },
+  "dropped_28": {
+    "CumulativeVarianceExplained": 0.8403226497,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 62.6573155412,
+    "VarianceExplained": 0.0035622996
+  },
+  "dropped_29": {
+    "CumulativeVarianceExplained": 0.8438339726,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 62.2073845875,
+    "VarianceExplained": 0.0035113229
+  },
+  "dropped_3": {
+    "CumulativeVarianceExplained": 0.7305974977,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 80.6084033661,
+    "VarianceExplained": 0.0058958648
+  },
+  "dropped_30": {
+    "CumulativeVarianceExplained": 0.8473245855,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 62.0236623627,
+    "VarianceExplained": 0.0034906129
+  },
+  "dropped_31": {
+    "CumulativeVarianceExplained": 0.8507611261,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 61.5413898789,
+    "VarianceExplained": 0.0034365406
+  },
+  "dropped_32": {
+    "CumulativeVarianceExplained": 0.8541850444,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 61.4282663772,
+    "VarianceExplained": 0.0034239183
+  },
+  "dropped_33": {
+    "CumulativeVarianceExplained": 0.8575532895,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 60.9268050477,
+    "VarianceExplained": 0.0033682451
+  },
+  "dropped_34": {
+    "CumulativeVarianceExplained": 0.8608762514,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 60.5158644882,
+    "VarianceExplained": 0.0033229619
+  },
+  "dropped_35": {
+    "CumulativeVarianceExplained": 0.8641227549,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 59.8156047558,
+    "VarianceExplained": 0.0032465035
+  },
+  "dropped_36": {
+    "CumulativeVarianceExplained": 0.8673303471,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 59.4560610752,
+    "VarianceExplained": 0.0032075922
+  },
+  "dropped_37": {
+    "CumulativeVarianceExplained": 0.8705081028,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 59.1788893978,
+    "VarianceExplained": 0.0031777557
+  },
+  "dropped_38": {
+    "CumulativeVarianceExplained": 0.8736559129,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 58.8993934589,
+    "VarianceExplained": 0.0031478101
+  },
+  "dropped_39": {
+    "CumulativeVarianceExplained": 0.8767633642,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 58.5205943882,
+    "VarianceExplained": 0.0031074513
+  },
+  "dropped_4": {
+    "CumulativeVarianceExplained": 0.736201881,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 78.5905768649,
+    "VarianceExplained": 0.0056043833
+  },
+  "dropped_40": {
+    "CumulativeVarianceExplained": 0.8798363458,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 58.1951164856,
+    "VarianceExplained": 0.0030729816
+  },
+  "dropped_41": {
+    "CumulativeVarianceExplained": 0.8828852109,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 57.9663110377,
+    "VarianceExplained": 0.0030488651
+  },
+  "dropped_42": {
+    "CumulativeVarianceExplained": 0.885866879,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 57.3239635919,
+    "VarianceExplained": 0.0029816681
+  },
+  "dropped_43": {
+    "CumulativeVarianceExplained": 0.8888230052,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 57.0779076213,
+    "VarianceExplained": 0.0029561262
+  },
+  "dropped_44": {
+    "CumulativeVarianceExplained": 0.8917604132,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 56.8969124043,
+    "VarianceExplained": 0.002937408
+  },
+  "dropped_45": {
+    "CumulativeVarianceExplained": 0.8946853383,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 56.7758877979,
+    "VarianceExplained": 0.0029249251
+  },
+  "dropped_46": {
+    "CumulativeVarianceExplained": 0.8975960754,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 56.6380184672,
+    "VarianceExplained": 0.0029107371
+  },
+  "dropped_47": {
+    "CumulativeVarianceExplained": 0.9004864122,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 56.4391917327,
+    "VarianceExplained": 0.0028903368
+  },
+  "dropped_48": {
+    "CumulativeVarianceExplained": 0.9033282112,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 55.9632902492,
+    "VarianceExplained": 0.002841799
+  },
+  "dropped_49": {
+    "CumulativeVarianceExplained": 0.9061541435,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 55.8068412141,
+    "VarianceExplained": 0.0028259324
+  },
+  "dropped_5": {
+    "CumulativeVarianceExplained": 0.7416607829,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 77.563822615,
+    "VarianceExplained": 0.0054589019
+  },
+  "dropped_50": {
+    "CumulativeVarianceExplained": 0.9089689134,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 55.6965128104,
+    "VarianceExplained": 0.0028147698
+  },
+  "dropped_51": {
+    "CumulativeVarianceExplained": 0.9117419986,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 55.2825628181,
+    "VarianceExplained": 0.0027730852
+  },
+  "dropped_52": {
+    "CumulativeVarianceExplained": 0.9144753661,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 54.8852409511,
+    "VarianceExplained": 0.0027333675
+  },
+  "dropped_53": {
+    "CumulativeVarianceExplained": 0.9171343156,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 54.1329382206,
+    "VarianceExplained": 0.0026589494
+  },
+  "dropped_54": {
+    "CumulativeVarianceExplained": 0.9197780649,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 53.9779890938,
+    "VarianceExplained": 0.0026437494
+  },
+  "dropped_55": {
+    "CumulativeVarianceExplained": 0.9224068616,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 53.825126323,
+    "VarianceExplained": 0.0026287967
+  },
+  "dropped_56": {
+    "CumulativeVarianceExplained": 0.9250191175,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 53.6555216521,
+    "VarianceExplained": 0.0026122559
+  },
+  "dropped_57": {
+    "CumulativeVarianceExplained": 0.9275916133,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 53.2456211163,
+    "VarianceExplained": 0.0025724958
+  },
+  "dropped_58": {
+    "CumulativeVarianceExplained": 0.9301461107,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 53.059028147,
+    "VarianceExplained": 0.0025544974
+  },
+  "dropped_59": {
+    "CumulativeVarianceExplained": 0.9326645301,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 52.6830113025,
+    "VarianceExplained": 0.0025184194
+  },
+  "dropped_6": {
+    "CumulativeVarianceExplained": 0.7468737307,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 75.7963420887,
+    "VarianceExplained": 0.0052129478
+  },
+  "dropped_60": {
+    "CumulativeVarianceExplained": 0.9351638394,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 52.4827478503,
+    "VarianceExplained": 0.0024993093
+  },
+  "dropped_61": {
+    "CumulativeVarianceExplained": 0.9376398756,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 52.2378205029,
+    "VarianceExplained": 0.0024760361
+  },
+  "dropped_62": {
+    "CumulativeVarianceExplained": 0.9400994343,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 52.0637159216,
+    "VarianceExplained": 0.0024595588
+  },
+  "dropped_63": {
+    "CumulativeVarianceExplained": 0.9425449585,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 51.9149626444,
+    "VarianceExplained": 0.0024455242
+  },
+  "dropped_64": {
+    "CumulativeVarianceExplained": 0.9449651513,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 51.6453873529,
+    "VarianceExplained": 0.0024201928
+  },
+  "dropped_65": {
+    "CumulativeVarianceExplained": 0.9473777706,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 51.5645173388,
+    "VarianceExplained": 0.0024126193
+  },
+  "dropped_66": {
+    "CumulativeVarianceExplained": 0.949758479,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 51.2223694956,
+    "VarianceExplained": 0.0023807084
+  },
+  "dropped_67": {
+    "CumulativeVarianceExplained": 0.9521143234,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 50.9541854715,
+    "VarianceExplained": 0.0023558444
+  },
+  "dropped_68": {
+    "CumulativeVarianceExplained": 0.9544467893,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 50.7007296563,
+    "VarianceExplained": 0.0023324659
+  },
+  "dropped_69": {
+    "CumulativeVarianceExplained": 0.9567522623,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 50.4065047454,
+    "VarianceExplained": 0.002305473
+  },
+  "dropped_7": {
+    "CumulativeVarianceExplained": 0.7520615112,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 75.6131546528,
+    "VarianceExplained": 0.0051877805
+  },
+  "dropped_70": {
+    "CumulativeVarianceExplained": 0.9590431117,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 50.2463856391,
+    "VarianceExplained": 0.0022908494
+  },
+  "dropped_71": {
+    "CumulativeVarianceExplained": 0.9612891787,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 49.7528445965,
+    "VarianceExplained": 0.002246067
+  },
+  "dropped_72": {
+    "CumulativeVarianceExplained": 0.9635256742,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 49.6467214634,
+    "VarianceExplained": 0.0022364955
+  },
+  "dropped_73": {
+    "CumulativeVarianceExplained": 0.965754778,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 49.5646113965,
+    "VarianceExplained": 0.0022291038
+  },
+  "dropped_74": {
+    "CumulativeVarianceExplained": 0.9679627015,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 49.3285758814,
+    "VarianceExplained": 0.0022079236
+  },
+  "dropped_75": {
+    "CumulativeVarianceExplained": 0.9701556591,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 49.1611096448,
+    "VarianceExplained": 0.0021929576
+  },
+  "dropped_76": {
+    "CumulativeVarianceExplained": 0.9723342925,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 49.000288728,
+    "VarianceExplained": 0.0021786334
+  },
+  "dropped_77": {
+    "CumulativeVarianceExplained": 0.9744897845,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 48.7393531832,
+    "VarianceExplained": 0.0021554919
+  },
+  "dropped_78": {
+    "CumulativeVarianceExplained": 0.9765966778,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 48.1867716642,
+    "VarianceExplained": 0.0021068933
+  },
+  "dropped_79": {
+    "CumulativeVarianceExplained": 0.9786833063,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 47.9544738164,
+    "VarianceExplained": 0.0020866285
+  },
+  "dropped_8": {
+    "CumulativeVarianceExplained": 0.7571140768,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 74.6212534605,
+    "VarianceExplained": 0.0050525656
+  },
+  "dropped_80": {
+    "CumulativeVarianceExplained": 0.9807464633,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 47.6840026731,
+    "VarianceExplained": 0.002063157
+  },
+  "dropped_81": {
+    "CumulativeVarianceExplained": 0.9827995277,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 47.5672277573,
+    "VarianceExplained": 0.0020530643
+  },
+  "dropped_82": {
+    "CumulativeVarianceExplained": 0.9848266359,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 47.265583723,
+    "VarianceExplained": 0.0020271082
+  },
+  "dropped_83": {
+    "CumulativeVarianceExplained": 0.9868288517,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 46.97448269,
+    "VarianceExplained": 0.0020022158
+  },
+  "dropped_84": {
+    "CumulativeVarianceExplained": 0.9888079186,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 46.702141669,
+    "VarianceExplained": 0.0019790669
+  },
+  "dropped_85": {
+    "CumulativeVarianceExplained": 0.9907696996,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 46.497737196,
+    "VarianceExplained": 0.001961781
+  },
+  "dropped_86": {
+    "CumulativeVarianceExplained": 0.9926963405,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 46.079414835,
+    "VarianceExplained": 0.001926641
+  },
+  "dropped_87": {
+    "CumulativeVarianceExplained": 0.9945571223,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 45.2849903261,
+    "VarianceExplained": 0.0018607817
+  },
+  "dropped_88": {
+    "CumulativeVarianceExplained": 0.9964050839,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 45.1287223541,
+    "VarianceExplained": 0.0018479617
+  },
+  "dropped_89": {
+    "CumulativeVarianceExplained": 0.9982335921,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 44.8905585457,
+    "VarianceExplained": 0.0018285081
+  },
+  "dropped_9": {
+    "CumulativeVarianceExplained": 0.7620299787,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 73.6051441342,
+    "VarianceExplained": 0.004915902
+  },
+  "dropped_90": {
+    "CumulativeVarianceExplained": 1.0,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 44.1216824632,
+    "VarianceExplained": 0.0017664079
+  },
+  "dropped_91": {
+    "CumulativeVarianceExplained": 1.0,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 0.0,
+    "VarianceExplained": 0.0
+  },
+  "dropped_92": {
+    "CumulativeVarianceExplained": 1.0,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 0.0,
+    "VarianceExplained": 0.0
+  },
+  "dropped_93": {
+    "CumulativeVarianceExplained": 1.0,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 0.0,
+    "VarianceExplained": 0.0
+  },
+  "dropped_94": {
+    "CumulativeVarianceExplained": 1.0,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 0.0,
+    "VarianceExplained": 0.0
+  },
+  "dropped_95": {
+    "CumulativeVarianceExplained": 1.0,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": false,
+    "SingularValue": 0.0,
+    "VarianceExplained": 0.0
+  },
+  "edge_comp_00": {
+    "CumulativeVarianceExplained": 0.1707907249,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": true,
+    "SingularValue": 433.8491006248,
+    "VarianceExplained": 0.1707907249
+  },
+  "edge_comp_01": {
+    "CumulativeVarianceExplained": 0.2655112684,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": true,
+    "SingularValue": 323.0938200463,
+    "VarianceExplained": 0.0947205435
+  },
+  "edge_comp_02": {
+    "CumulativeVarianceExplained": 0.3439584962,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": true,
+    "SingularValue": 294.032516662,
+    "VarianceExplained": 0.0784472278
+  },
+  "edge_comp_03": {
+    "CumulativeVarianceExplained": 0.3984863988,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": true,
+    "SingularValue": 245.1410019987,
+    "VarianceExplained": 0.0545279026
+  },
+  "edge_comp_04": {
+    "CumulativeVarianceExplained": 0.4322373668,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": true,
+    "SingularValue": 192.8633370262,
+    "VarianceExplained": 0.033750968
+  },
+  "edge_comp_05": {
+    "CumulativeVarianceExplained": 0.4586458873,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": true,
+    "SingularValue": 170.5998310257,
+    "VarianceExplained": 0.0264085206
+  },
+  "edge_comp_06": {
+    "CumulativeVarianceExplained": 0.4839164725,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": true,
+    "SingularValue": 166.8838115498,
+    "VarianceExplained": 0.0252705852
+  },
+  "edge_comp_07": {
+    "CumulativeVarianceExplained": 0.5066616968,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": true,
+    "SingularValue": 158.3257930286,
+    "VarianceExplained": 0.0227452242
+  },
+  "edge_comp_08": {
+    "CumulativeVarianceExplained": 0.5275620394,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": true,
+    "SingularValue": 151.7690667099,
+    "VarianceExplained": 0.0209003426
+  },
+  "edge_comp_09": {
+    "CumulativeVarianceExplained": 0.5477167273,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": true,
+    "SingularValue": 149.0371713712,
+    "VarianceExplained": 0.0201546879
+  },
+  "edge_comp_10": {
+    "CumulativeVarianceExplained": 0.5664257775,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": true,
+    "SingularValue": 143.5927227042,
+    "VarianceExplained": 0.0187090502
+  },
+  "edge_comp_11": {
+    "CumulativeVarianceExplained": 0.5829840742,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": true,
+    "SingularValue": 135.0872595185,
+    "VarianceExplained": 0.0165582968
+  },
+  "edge_comp_12": {
+    "CumulativeVarianceExplained": 0.5988067792,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": true,
+    "SingularValue": 132.0525903511,
+    "VarianceExplained": 0.0158227049
+  },
+  "edge_comp_13": {
+    "CumulativeVarianceExplained": 0.6119241534,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": true,
+    "SingularValue": 120.2347528103,
+    "VarianceExplained": 0.0131173742
+  },
+  "edge_comp_14": {
+    "CumulativeVarianceExplained": 0.624036515,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": true,
+    "SingularValue": 115.5369701899,
+    "VarianceExplained": 0.0121123616
+  },
+  "edge_comp_15": {
+    "CumulativeVarianceExplained": 0.635705659,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": true,
+    "SingularValue": 113.4033961066,
+    "VarianceExplained": 0.011669144
+  },
+  "edge_comp_16": {
+    "CumulativeVarianceExplained": 0.6461650243,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": true,
+    "SingularValue": 107.3641339258,
+    "VarianceExplained": 0.0104593652
+  },
+  "edge_comp_17": {
+    "CumulativeVarianceExplained": 0.6560837169,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": true,
+    "SingularValue": 104.5523445476,
+    "VarianceExplained": 0.0099186926
+  },
+  "edge_comp_18": {
+    "CumulativeVarianceExplained": 0.6649796263,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": true,
+    "SingularValue": 99.0151697293,
+    "VarianceExplained": 0.0088959094
+  },
+  "edge_comp_19": {
+    "CumulativeVarianceExplained": 0.6736718058,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": true,
+    "SingularValue": 97.874803837,
+    "VarianceExplained": 0.0086921795
+  },
+  "edge_comp_20": {
+    "CumulativeVarianceExplained": 0.6816789022,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": true,
+    "SingularValue": 93.9386014078,
+    "VarianceExplained": 0.0080070964
+  },
+  "edge_comp_21": {
+    "CumulativeVarianceExplained": 0.6895963537,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": true,
+    "SingularValue": 93.4112672672,
+    "VarianceExplained": 0.0079174514
+  },
+  "edge_comp_22": {
+    "CumulativeVarianceExplained": 0.6973711761,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": true,
+    "SingularValue": 92.5660644116,
+    "VarianceExplained": 0.0077748224
+  },
+  "edge_comp_23": {
+    "CumulativeVarianceExplained": 0.7047247321,
+    "Mask": "Edge",
+    "Method": "EdgeRegressor",
+    "Retained": true,
+    "SingularValue": 90.0233694372,
+    "VarianceExplained": 0.007353556
+  },
+  "framewise_displacement": {
+    "Units": "mm"
+  },
+  "rot_x": {
+    "Description": "Rotation about left-right axis. Also known as \"pitch\".",
+    "Units": "rad"
+  },
+  "rot_y": {
+    "Description": "Rotation about anterior-posterior axis. Also known as \"roll\".",
+    "Units": "rad"
+  },
+  "rot_z": {
+    "Description": "Rotation about superior-inferior axis. Also known as \"yaw\".",
+    "Units": "rad"
+  },
+  "t_comp_cor_00": {
+    "CumulativeVarianceExplained": 0.2846004267,
+    "Method": "tCompCor",
+    "Retained": true,
+    "SingularValue": 125.6114949238,
+    "VarianceExplained": 0.2846004267
+  },
+  "t_comp_cor_01": {
+    "CumulativeVarianceExplained": 0.4194721052,
+    "Method": "tCompCor",
+    "Retained": true,
+    "SingularValue": 86.4713007746,
+    "VarianceExplained": 0.1348716785
+  },
+  "t_comp_cor_02": {
+    "CumulativeVarianceExplained": 0.5295713204,
+    "Method": "tCompCor",
+    "Retained": true,
+    "SingularValue": 78.1274630968,
+    "VarianceExplained": 0.1100992152
+  },
+  "trans_x": {
+    "Description": "Translation along left-right axis.",
+    "Units": "mm"
+  },
+  "trans_y": {
+    "Description": "Translation along anterior-posterior axis.",
+    "Units": "mm"
+  },
+  "trans_z": {
+    "Description": "Translation along superior-inferior axis.",
+    "Units": "mm"
+  },
+  "w_comp_cor_00": {
+    "CumulativeVarianceExplained": 0.1138511114,
+    "Mask": "WM",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 88.4782596047,
+    "VarianceExplained": 0.1138511114
+  },
+  "w_comp_cor_01": {
+    "CumulativeVarianceExplained": 0.2029702193,
+    "Mask": "WM",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 78.2804564138,
+    "VarianceExplained": 0.0891191079
+  },
+  "w_comp_cor_02": {
+    "CumulativeVarianceExplained": 0.2636665002,
+    "Mask": "WM",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 64.6024478881,
+    "VarianceExplained": 0.0606962809
+  },
+  "w_comp_cor_03": {
+    "CumulativeVarianceExplained": 0.3076907911,
+    "Mask": "WM",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 55.0191807019,
+    "VarianceExplained": 0.0440242909
+  },
+  "w_comp_cor_04": {
+    "CumulativeVarianceExplained": 0.3463790952,
+    "Mask": "WM",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 51.5772022506,
+    "VarianceExplained": 0.0386883041
+  },
+  "w_comp_cor_05": {
+    "CumulativeVarianceExplained": 0.3793689797,
+    "Mask": "WM",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 47.6275598013,
+    "VarianceExplained": 0.0329898844
+  },
+  "w_comp_cor_06": {
+    "CumulativeVarianceExplained": 0.4070209895,
+    "Mask": "WM",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 43.6044974041,
+    "VarianceExplained": 0.0276520098
+  },
+  "w_comp_cor_07": {
+    "CumulativeVarianceExplained": 0.4305065472,
+    "Mask": "WM",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 40.1854071833,
+    "VarianceExplained": 0.0234855577
+  },
+  "w_comp_cor_08": {
+    "CumulativeVarianceExplained": 0.4522160046,
+    "Mask": "WM",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 38.6360232345,
+    "VarianceExplained": 0.0217094574
+  },
+  "w_comp_cor_09": {
+    "CumulativeVarianceExplained": 0.4736768347,
+    "Mask": "WM",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 38.4141468041,
+    "VarianceExplained": 0.0214608301
+  },
+  "w_comp_cor_10": {
+    "CumulativeVarianceExplained": 0.4921496636,
+    "Mask": "WM",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 35.6397490677,
+    "VarianceExplained": 0.0184728289
+  },
+  "w_comp_cor_11": {
+    "CumulativeVarianceExplained": 0.5089097816,
+    "Mask": "WM",
+    "Method": "aCompCor",
+    "Retained": true,
+    "SingularValue": 33.9473962874,
+    "VarianceExplained": 0.016760118
+  }
+}
